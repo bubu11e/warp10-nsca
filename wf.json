@@ -1,0 +1,17 @@
+{
+  "type": "ext",
+  "group": "xyz.bubu11e",
+  "artifact": "warp10-nsca",
+  "version": "1.0.0",
+  "description": "Perform NSCA Calls from warp10 platform",
+  "author": "Julien Girard",
+  "email": "warpfleet@girard.bzh",
+  "license": "GPLv3",
+  "git": "https://github.com/bubu11e/warp10-nsca",
+  "repoUrl": "WhatIsThat",
+  "tags": [
+    "nsca",
+    "shinken",
+    "nagios"
+  ]
+}
